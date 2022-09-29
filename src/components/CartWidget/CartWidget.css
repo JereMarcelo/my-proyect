@@ -1,0 +1,16 @@
+#cartImg{
+    height: 100%;
+    width: 15%;
+    margin-left: 650px;
+    
+}
+#cartNumber{
+    font-size: 7vh;
+}
+#carrito{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    height: 15vh;
+    justify-items:stretch;
+    align-items: center;
+}
